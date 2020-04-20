@@ -1,0 +1,9 @@
+.header {
+  color: #fff;
+  width: 300px;
+  margin: auto;
+  height: 50px;
+  display: flex;
+  border-radius: 5px;
+  position: relative;
+}
