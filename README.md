@@ -1,4 +1,4 @@
-This project show an example of a shopping list app developed using create-react-app
+This project shows an example of a shopping list app developed using create-react-app
 
 ## Available Scripts
 
