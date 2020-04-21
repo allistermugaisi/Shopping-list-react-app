@@ -1,5 +1,7 @@
 This project shows an example of a shopping list app developed using create-react-app
 
+Below are the steps of using the app:
+
 ## Available Scripts
 
 In the project directory, you can run:
